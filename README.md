@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**volkanbasaran1/volkanbasaran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working on: Engaged in developing full stack web applications and experimenting with various technologies.
 
 🌱 I’m currently learning: Actively learning about new technologies and frameworks to continually enhance my skills.
@@ -20,4 +13,4 @@ Here are some ideas to get you started:
 😄 Pronouns: I prefer to use the pronouns him.
 
 ⚡ Fun fact: My favorite moment while coding is the joy of seeing a new feature come to life.
--->
+
